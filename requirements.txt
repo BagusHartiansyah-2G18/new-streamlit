@@ -21,3 +21,4 @@ six==1.16.0
 tomlkit==0.12.1
 wrapt==1.15.0
 seaborn==0.13.0
+streamlit-elements==0.1.*
